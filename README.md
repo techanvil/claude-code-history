@@ -2,6 +2,8 @@
 
 A Claude Code mod that adds a `/history` command for browsing your past prompts and reusing them.
 
+![The /history pane docked beside the chat, listing prompts from all projects grouped by project, each with its age](docs/screenshot.png)
+
 `/history` opens a pane beside the chat that lists the prompts you've sent, newest first, read from `~/.claude/history.jsonl`. Pick one and it goes back into the prompt box for you to edit or send.
 
 ## Features
