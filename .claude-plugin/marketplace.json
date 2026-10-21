@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-history",
+  "description": "A Claude Code mod that adds /history for browsing and reusing past prompts",
+  "owner": {
+    "name": "Tom Rees-Herdman"
+  },
+  "plugins": [
+    {
+      "name": "history",
+      "source": "./"
+    }
+  ]
+}

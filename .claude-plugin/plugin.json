@@ -1,0 +1,10 @@
+{
+  "name": "history",
+  "version": "0.1.0",
+  "description": "A /history command to browse and reuse past prompts",
+  "author": {
+    "name": "Tom Rees-Herdman"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
